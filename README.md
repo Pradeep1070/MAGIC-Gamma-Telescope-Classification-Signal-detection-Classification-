@@ -1,1 +1,1 @@
-# MAGIC-Gamma-Telescope-Classification-Signal-detection-a-Classification
+# MAGIC-Gamma-Telescope-Signal-detection-a-Classification
